@@ -2,7 +2,7 @@
 # Demo:
 
 ## Video Generation
-1. Create text chapter in Korean
+1. Create text chapter in chosen language
 3. Generate english translation
 4. Generate audio file reading translation aloud  
 5. Generate video file reading translation aloud with book thumbnail as background
